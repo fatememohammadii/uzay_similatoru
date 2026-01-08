@@ -1,4 +1,4 @@
-# uzay_similatoru
+# uzay_similsyonu
 Uzay Simülasyonu (Space Simulation Project):
 Bu proje, bir bilim insanının Güneş sistemindeki farklı gezegenlerde (Merkür'den Neptün'e kadar) temel fizik kanunlarını simüle etmesini sağlayan C dili ile geliştirilmiş konsol tabanlı bir uygulamadır.
 
